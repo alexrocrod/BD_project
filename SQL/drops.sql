@@ -1,0 +1,27 @@
+-- USE PROJETO;
+-- GO 
+
+DROP TABLE UNIV.Pert_Curso;
+GO
+DROP TABLE UNIV.Curso;
+GO
+DROP TABLE UNIV.Aluno;
+GO
+
+
+DROP TABLE UNIV.Investigador;
+GO
+DROP TABLE UNIV.Docente;
+GO
+DROP TABLE UNIV.Funcionario;
+GO
+DROP TABLE UNIV.Pessoa;
+GO
+DROP TABLE UNIV.Departamento;
+GO
+DROP TABLE UNIV.Campus;
+GO
+DROP TABLE UNIV.Reitoria;
+GO
+DROP TABLE UNIV.Local_Trabalho;
+GO

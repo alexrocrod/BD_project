@@ -1,0 +1,11 @@
+E:\xandr\Desktop\Universidade\ESTUDO\3o ano\2º Semestre\BD\ProjectBD\UI_Final\bin\publish\UI_Final.exe
+E:\xandr\Desktop\Universidade\ESTUDO\3o ano\2º Semestre\BD\ProjectBD\UI_Final\bin\publish\UI_Final.dll
+E:\xandr\Desktop\Universidade\ESTUDO\3o ano\2º Semestre\BD\ProjectBD\UI_Final\bin\publish\UI_Final.deps.json
+E:\xandr\Desktop\Universidade\ESTUDO\3o ano\2º Semestre\BD\ProjectBD\UI_Final\bin\publish\UI_Final.runtimeconfig.json
+E:\xandr\Desktop\Universidade\ESTUDO\3o ano\2º Semestre\BD\ProjectBD\UI_Final\bin\publish\UI_Final.pdb
+E:\xandr\Desktop\Universidade\ESTUDO\3o ano\2º Semestre\BD\ProjectBD\UI_Final\bin\publish\System.Data.SqlClient.dll
+E:\xandr\Desktop\Universidade\ESTUDO\3o ano\2º Semestre\BD\ProjectBD\UI_Final\bin\publish\runtimes\win-arm64\native\sni.dll
+E:\xandr\Desktop\Universidade\ESTUDO\3o ano\2º Semestre\BD\ProjectBD\UI_Final\bin\publish\runtimes\win-x64\native\sni.dll
+E:\xandr\Desktop\Universidade\ESTUDO\3o ano\2º Semestre\BD\ProjectBD\UI_Final\bin\publish\runtimes\win-x86\native\sni.dll
+E:\xandr\Desktop\Universidade\ESTUDO\3o ano\2º Semestre\BD\ProjectBD\UI_Final\bin\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\xandr\Desktop\Universidade\ESTUDO\3o ano\2º Semestre\BD\ProjectBD\UI_Final\bin\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
